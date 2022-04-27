@@ -15,7 +15,7 @@ yarn add @types/styled-components @types/react
 yarn start
 ```
 
-Example for using importer in src/app/app.component.ts
+Example for using importer in **src/app/app.component.ts**
 
 - using importer with CDN requires adding:
   `<script src="https://unpkg.com/fuse-importer@0.18.0"></script>`
