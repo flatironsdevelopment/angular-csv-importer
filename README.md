@@ -1,3 +1,8 @@
+# Flatirons Fuse Angular Example
+
+This is a sample Angular project for [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/).
+The full documentation for Fuse can be [found here](https://fuse-docs.flatironsdevelopment.com/).
+
 ### Running the app
 
 Requires updating tsconfig.json with
