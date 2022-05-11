@@ -3,6 +3,8 @@
 This is a sample Angular project for [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/).
 The full documentation for Fuse can be [found here](https://fuse-docs.flatironsdevelopment.com/).
 
+The goal of Flatirons Fuse is to provide an embeddable CSV import tool that makes importing data to your website fast, easy, and painless.
+
 ### Running the app
 
 Requires updating tsconfig.json with
